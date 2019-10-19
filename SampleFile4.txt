@@ -1,1 +1,5 @@
 Sample Test File4
+Adding git commit command
+
+#git commit -m <"Message details">
+
